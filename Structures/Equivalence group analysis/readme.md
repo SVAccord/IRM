@@ -1,0 +1,1 @@
+**Description**: This code is designed to perform equivalence group analysis. It uses a reformulation of the problem as a graph coloring problem. The solution is obtained using an optimizer. A Gurobi license is required.

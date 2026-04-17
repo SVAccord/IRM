@@ -1,0 +1,1 @@
+**Descriptoin**: This code is designed to generate a list of binary structures promising for MCO synthesis. The structures are written in "Ml notation" (M is the matrix, and l is the leaf). It uses the results of equivalence group analysis (equivalence group table).
