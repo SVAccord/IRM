@@ -1,0 +1,1 @@
+**Description**: This code is designed to synthesize IRM matrices by solving a symbolically posed integer optimization problem. A Gurobi license is required.
