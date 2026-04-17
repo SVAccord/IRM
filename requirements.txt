@@ -1,4 +1,0 @@
-pandas
-voila
-matplotlib
-jupiter
