@@ -5,4 +5,4 @@ The user enters input values, and based on the composite scores determined by ea
 
 https://lab57.shinyapps.io/dpre/
 
-![fig] (pictures/forecast.png)
+![fig](pictures/forecast.png)
