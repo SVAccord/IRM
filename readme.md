@@ -1,6 +1,9 @@
 **Description**: Integrated Rating Mechanisms (IRM) were introduced as multidimensional assessment and ranking systems for management and control in organizational and manufacturing systems (for example ACCORD for electronic industry, see Gorelikov, 1984) and are implemented nowadays too (see, for example, Burkov, Novikov, Shchepkin, 2015, Korgin and Rozhdestvenskaya, 2017, Alekseev, Galiaskarov and Koskova, 2019). IRM belongs to the class of so-called verbal decision analysis approaches (VDA) for unstructured problems (see, Larichev and Moshkovich, 2013) and intended to structure them. IRM is intended for ordinal ranking (or classification) with a predetermined number of classes of a finite set of multicriteria alternatives. The key components of IRM are binary tree and convolution matrices, which allow obtaining integrated assessment (IA) based on the values of several parameters – see Figure 1.
 
-Within the framework of this project, an approach was implemented that makes it possible to: 1. Select promising structures of complete binary trees for IRM (folder Structures) 2. Synthesize IRM matrices based on a set of examples (ML approach) (folder Matrixes) 3. Create a predictive system based on several trained IRM models (analog of a decision forest) (folder Prediction)
+Within the framework of this project, an approach was implemented that makes it possible to: 
+1. Select promising structures of complete binary trees for IRM (folder Structures) 
+2. Synthesize IRM matrices based on a set of examples (ML approach) (folder Matrixes) 
+3. Create a predictive system based on several trained IRM models (analog of a decision forest) (folder Prediction)
 
  ![fig](pictures/IRM_ex.png)
 Fig. 1.  Components of Integrated Rating Mechanism. 
@@ -28,6 +31,4 @@ The typical approach to the identification of parameters of IRM in order to impl
 7. Коргин Н.А., Сергеев В.А. Развитие практики применения механизмов комплексного оценивания, в качестве инструмента по выбору транспортных средств для выполнения полетных заданий / Труды научно-практической конференции «Технологическое развитие авиастроения: глобальные тенденции и национальные интересы России» (Москва, 2022). М.: НИЦ "Институт им. Н.Е. Жуковского", 2023. С. 538.
 
 8. Кравчук С.Г., Коргин Н.А., Сергеев В.А. Арктический дизайн: опыт междисциплинарного конструирования предметной области // Журнал ВШЭ по искусству и дизайну. 2025. № 8 (4). С. 10-41.
-
-The main code, in accordance with the proposed methodology of synthesis of the IRM, is presented in two catalogs: Structures and Matrices.
 
